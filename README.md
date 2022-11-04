@@ -1,6 +1,6 @@
 # Web3Bridge Pre Qualification Task
 
-The Project **Pre-Qualification Assessment** created by *Yours Sincerely* during my application into *CohortVIII* on becoming a Web3 Dev @ *<https://web3bridge.ng/>* **Web3Bridge**
+The Project **Pre-Qualification Assessment** created by *Yours Sincerely* during my application into *CohortVIII* on becoming a Web3 Dev @ *<https://web3bridge.ng/> **Web3Bridge***
 
 ## Technologies
 
