@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('./thefonts/fonts/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('./thefonts/fonts/kaushanscript-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'goblinregular';
+    src: url('./thefonts/fonts/goblinone-webfont.woff2') format('woff2'),
+         url('./thefonts/fonts/goblinone-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'zantrokeregular';
+    src: url('./thefonts/fonts/zantroke-webfont.woff2') format('woff2'),
+         url('./thefonts/fonts/zantroke-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'kaushan_scriptregular';
+}
+
+img {
+    max-width: 100%;
+}

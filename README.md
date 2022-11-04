@@ -20,4 +20,3 @@ All the following files are programme written during the building of the counter
 | `README.md` | the markdown file added to the root of the repository |
 | `script.js` | the javascript file for the project |
 | `img` | images holder |
-# myTask
